@@ -16,3 +16,16 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/syahrilssr-stack).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Last Light — Island Survival
+
+A complete, browser-playable 3D survival shooter. Drop into a low-poly island arena with ten AI rivals, loot weapons and medkits, and keep inside the shrinking blue safe zone. Be the last survivor.
+
+### Play
+
+Open `index.html` in a modern browser, or serve this folder over HTTP. Three.js is loaded from jsDelivr.
+
+- **Desktop:** WASD or arrow keys to move, Shift to sprint, hold the mouse button to fire. Auto-aim assist tracks nearby rivals.
+- **Phone/tablet:** use the left virtual stick to move and the on-screen Run and Fire buttons.
+- Walk over glowing pickups to collect a weapon or restore health. Watch the tactical map and avoid the storm.
+
